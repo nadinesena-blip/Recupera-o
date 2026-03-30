@@ -1,0 +1,16 @@
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\bin\Debug\net8.0-windows\Recuperação.exe
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\bin\Debug\net8.0-windows\Recuperação.deps.json
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\bin\Debug\net8.0-windows\Recuperação.runtimeconfig.json
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\bin\Debug\net8.0-windows\Recuperação.dll
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\bin\Debug\net8.0-windows\Recuperação.pdb
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\obj\Debug\net8.0-windows\Recuperação.Form1.resources
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\obj\Debug\net8.0-windows\Recuperação.csproj.GenerateResource.cache
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\obj\Debug\net8.0-windows\Recuperação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\obj\Debug\net8.0-windows\Recuperação.AssemblyInfoInputs.cache
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\obj\Debug\net8.0-windows\Recuperação.AssemblyInfo.cs
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\obj\Debug\net8.0-windows\Recuperação.csproj.CoreCompileInputs.cache
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\obj\Debug\net8.0-windows\Recuperação.dll
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\obj\Debug\net8.0-windows\refint\Recuperação.dll
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\obj\Debug\net8.0-windows\Recuperação.pdb
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\obj\Debug\net8.0-windows\Recuperação.genruntimeconfig.cache
+C:\Users\nadine.msena\source\repos\Recuperação\Recuperação\obj\Debug\net8.0-windows\ref\Recuperação.dll
